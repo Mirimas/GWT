@@ -1,0 +1,1 @@
+Maven GWT + Spring + JPA example
